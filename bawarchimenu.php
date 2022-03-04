@@ -261,7 +261,7 @@ $_SESSION["restaurent"]="Bawarchi";
             
                 function validate()
                 {
-                    const radios=document.getElementsByName("abc" value=1);
+                    const radios=document.getElementsByName("abc");
                     var lp=document.getElementById("time").value;
                     
                     var ab=0;
